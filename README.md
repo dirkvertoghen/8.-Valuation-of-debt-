@@ -46,5 +46,3 @@ Required:
 The preference shares of Industry park Co. have an ex div market value of $0.40 per share. The Loan notes are redeemable at a 10% premium to their nominal value of $100 per bond and have an ex interest market value of $104.50 per bond. The bank loan has a variable interest rate that has averaged 4% per year in recent years. Industry park Co. pays profit tax at an annual rate of 30% per year.
 Required: Calculate the market value weighted average cost of capital of Industry park Co.
 
-
-10. 
