@@ -32,6 +32,7 @@ Required:
 (2)	Calculate the current cost of equity of Bell Co and, using this value, calculate the value of the company using the dividend valuation model.
 (3)	Calculate the current weighted average after-tax cost of capital of Bell Co and the weighted average after-tax cost of capital following the new debt issue, and comment on the difference between the two values.
 
+
 8. Industry park Co.’s CFO wishes to estimate the company’s current cost of capital for use in investment appraisal. The attached table is the extract from the statement of financial position of Industry park Co. as of 31 December 2020
 
    
