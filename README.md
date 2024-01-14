@@ -17,10 +17,11 @@ Topic: Valuation of debt
   6. B Co has 10 million 25c ordinary shares in issue with a current price of 155c cum div. An annual dividend of 9c has just been proposed. The company earns an accounting rate of return to equity (ROE) of 10% and pays out 40% of the return as dividends. The company also has 13% redeemable loan notes with a nominal value of $7 million, trading at $105. They are due to be redeemed at par in five year's time. If the rate of corporation tax is 33%, what is the company’s WACC?
 
   7. Bell Co is a company that is listed on a major stock exchange. The company has struggled to maintain profitability in the last two years due to poor economic conditions in its home country and therefore it has decided not to pay a dividend in the current year. However, there are now clear signs of economic recovery and company is optimistic that payment of dividends can be resumed in the future. Forecast financial information relating to the company is as follows
+
  
-          Year	            1	      2	        3
-        Earnings ($‘000)	3,000	  3,600	    4,300
-        Dividends ($’000)	nil	      500	    1,000
+                       Year	            1	      2	        3
+                     Earnings ($‘000)	3,000	  3,600	    4,300
+                     Dividends ($’000)	nil	      500	    1,000
   
   The current average price to earnings ratio of listed companies similar to Bell Co is five times.
 The company is optimistic that earnings and dividends will increase after Year 3 at a constant annual rate of 3% per year.
