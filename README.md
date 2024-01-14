@@ -32,10 +32,12 @@ Required:
 (3)	Calculate the current weighted average after-tax cost of capital of Bell Co and the weighted average after-tax cost of capital following the new debt issue, and comment on the difference between the two values.
 
 8. Industry park Co.’s CFO wishes to estimate the company’s current cost of capital for use in investment appraisal. The attached table is the extract from the statement of financial position of Industry park Co. as of 31 December 2020
+
+   
           	                                                        	$000
           Ordinary shares (face value 50 cents) 	                    5 000
           5% Preference shares (irredeemable with face value of $1) 	3 000
-          8% Loan notes redeemable after 6 years 	                    3 000
+          8% Loan notes redeemable after 6 years 	                   3 000
           Long-term bank loan 	                                      4 000
 
    The Industry park Co.’s ordinary shares ex div market value is $5.30 per share and an ordinary dividend of 46.3 cents per share has just been paid. Historic dividend payments per share (in $ cents) have been as follows: 40,9; 42,2; 43,6; 45,0 in the years 2016 to 2019 respectively.
